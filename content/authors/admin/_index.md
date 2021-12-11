@@ -6,12 +6,14 @@ title: Amandine Gillet
 superuser: true
 
 # Role/position/tagline
-#role: 
+role: Marie Sklodowska-Curie Research Fellow
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#- name: 
-#  url: 
+organizations:
+- name: S. Pierce Lab, Museum of Comparative Zoology, Harvard University
+  url: https://projects.iq.harvard.edu/spierce/home
+- name: Jones Lab, Department of Earth and Environmental Sciences, The University of Manchester
+  url: https://www.katrinaejones.com/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
