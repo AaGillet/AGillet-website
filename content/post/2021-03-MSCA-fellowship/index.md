@@ -5,6 +5,7 @@ title: "Marie Sklodowska-Curie Fellowship"
 subtitle: ""
 summary: "Global Fellowship for the Back2Sea project"
 authors: []
+profile: false # show author profile?
 tags: ["Recent", "Grant"]
 categories: []
 date: 2021-03-10T17:27:48+02:00

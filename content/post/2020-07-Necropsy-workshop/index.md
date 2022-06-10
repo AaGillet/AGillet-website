@@ -5,6 +5,7 @@ title: "14th Marine Mammal Necropsy Workshop"
 subtitle: ""
 summary: "Virtual workshop at the University of Liège"
 authors: []
+profile: false # show author profile?
 tags: ["Recent", "Workshop"]
 categories: []
 date: 2020-07-10T17:27:48+02:00

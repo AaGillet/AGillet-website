@@ -4,7 +4,7 @@
 title: "Interview for the Daily Science"  
 subtitle: ""
 summary: "Press article about our *Proceedings B* paper on cetacean vertebral morphology"
-authors: []
+profile: false # show author profile?
 tags: ["Recent", "Media"]
 categories: []
 date: 2019-11-28T17:27:48+02:00

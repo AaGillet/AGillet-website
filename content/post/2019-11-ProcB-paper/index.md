@@ -4,7 +4,7 @@
 title: "New paper on cetacean backbone ecomorphology and evolution"
 subtitle: ""
 summary: "The first chapter of my PhD has been recently published in the journal *Proceedings of the Royal Society B: Biological Sciences*!"
-#authors: []
+profile: false # show author profile?
 tags: ["Papers"]
 categories: []
 date: 2019-11-27T17:43:49+02:00

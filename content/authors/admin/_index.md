@@ -10,9 +10,9 @@ role: Marie Sklodowska-Curie Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: S. Pierce Lab, Museum of Comparative Zoology, Harvard University
+- name: S. Pierce Lab - Harvard University
   url: https://projects.iq.harvard.edu/spierce/home
-- name: Jones Lab, Department of Earth and Environmental Sciences, The University of Manchester
+- name: Jones Lab - The University of Manchester
   url: https://www.katrinaejones.com/
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,3 +77,6 @@ highlight_name: true
 ---
 
 My research interests lie into understanding the relationship between the morphology, kinematics, ecology and evolutionary history of large aquatic vertebrates with an emphasis on cetaceans. I thrive at applying multidisciplinary approaches to solve exciting biological questions, relying on a variety of methods such as data collection on museum specimens, dissections, 3D imaging, video analysis, numerical modelling, and phylogenetic comparative methods.
+
+_[Learn more about the **Back2Sea** project on axial evolution in secondary aquatic mammals!]({{< ref "project/Back2Sea/index.md" >}})_
+

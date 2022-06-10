@@ -38,6 +38,7 @@ image:
 
 
 authors: []
+profile: false # show author profile?
 tags: []
 categories: []
 
