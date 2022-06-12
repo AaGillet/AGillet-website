@@ -40,7 +40,7 @@ url_video: ""
 #slides: example
 
 
-#{{< figure src="manatee.png" title="Manatee" >}}
+
 ---
 
 Unravelling adaptations and evolutionary impacts of major ecological transitions remains a central theme in evolutionary biology. 
@@ -50,14 +50,14 @@ Modifications of limbs to flippers are well documented, yet, adaptations of the 
 
 Mammals have reinvaded water numerous times, using a variety of swimming modes, and thus provide an ideal system for studying axial evolution in land-to-water transitions. 
 The Back2Sea project will investigate the impact of the secondary invasion of the aquatic realm on the mammalian backbone by examining:
-_(i)_ vertebral morphology and function, 
-_(ii)_ backbone regionalisation and modularity, 
-and _(iii)_ mode and tempo of axial evolution. 
+ vertebral morphology and function, 
+ backbone regionalisation and modularity, 
+and mode and tempo of axial evolution. 
 
 To achieve this, Back2Sea quantifies form and function at the organismic scale using biomechanical experimentation, and combine this with data on macroevolutionary patterns of vertebral morphology across a wide variety of terrestrial, aquatic, and semiaquatic extant and fossil mammals. 
 Analyses conducted in a broad phylogenetic and quantitative evolutionary context allow to address fundamental questions about the patterns and processes driving land-to-water transitions. 
-
-
+<br></br>
+{{< figure src="funding_MSCA.png" title="" >}}
 
 
 ---
