@@ -31,7 +31,7 @@ doi: "https://doi.org/10.1007/s10914-022-09615-7"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Mammalian Evolution"
+publication: "Journal of Mammalian Evolution. 29: 931-946"
 publication_short: ""
 
 abstract: "Living cetaceans are ecologically diverse and have colonized habitats ranging from rivers and estuaries to the open ocean. This ecological diversity is strongly associated with variation of vertebral morphology. Interestingly, intraspecific ecological specialization between coastal and offshore environments has also been described for several species of extant delphinoids (Monodontidae, Phocoenidae, and Delphinidae). These apparent similar ecological specialisations between and within species provide a framework to compare ecomorphological patterns below and above the species level. Here, we investigated the tempo of habitat transitions during the delphinoid evolutionary history and we quantified the effect of habitat on the vertebral morphology in all delphinoids and between bottlenose dolphin (Tursiops truncatus) ecotypes of the western North Atlantic Ocean. Our comparative analyses highlight iterative habitat transitions and associated morphological convergences of the axial skeleton in delphinoids, both occurring at high evolutionary rates. Moreover, morphological modifications between coastal and offshore bottlenose dolphin ecotypes are similar in direction and magnitude to those observed in the entire Delphinidae family. Ecomorphological patterns currently observed at the intraspecific level might reflect macroevolutionary patterns that contributed to diversification."

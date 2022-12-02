@@ -31,7 +31,7 @@ publishDate: 2022-08-04T16:13:24+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Environmental Biology of Fishes"
+publication: "Environmental Biology of Fishes. 105: 1015-1032"
 publication_short: ""
 
 abstract: "Despite the role that goatfishes play in reef ecosystems, knowledge of their ecomorphological diversity remains scarce. 
