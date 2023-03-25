@@ -1,8 +1,8 @@
 ---
-title: Ecomorphology and biomechanics of cetacean backbone in an evolutionary context
-subtitle: ""
-summary: " "
-tags:
+title: Cetacean backbone ecomorphology
+subtitle: Ecomorphology and biomechanics of cetacean backbone in an evolutionary context
+summary: Ecomorphology and biomechanics of cetacean backbone in an evolutionary context
+tags: Cetacean ecomorphology
 #- Deep Learning
 date: "2015-10-01T00:00:00Z"
 

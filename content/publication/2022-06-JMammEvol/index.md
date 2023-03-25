@@ -39,7 +39,7 @@ abstract: "Living cetaceans are ecologically diverse and have colonized habitats
 # Summary. An optional shortened abstract.
 summary: "Journal of Mammalian Evolution"
 
-tags: []
+tags: [Cetacean ecomorphology]
 categories: []
 
 # Display this page in the Featured widget?

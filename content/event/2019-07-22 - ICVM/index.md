@@ -25,7 +25,7 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: ["Gillet A., Frédérich B., Parmentier E."]
-tags: []
+tags: [Cetacean ecomorphology]
 
 # Is this a featured talk? (true/false)
 featured: false

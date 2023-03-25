@@ -38,7 +38,7 @@ abstract: "Cetaceans represent the most diverse clade of extant marine tetrapods
 # Summary. An optional shortened abstract.
 summary: "Proceedings of the Royal Society B: Biological Sciences"
 
-tags: []
+tags: [Cetacean ecomorphology]
 categories: []
 
 # Display this page in the Featured widget?
