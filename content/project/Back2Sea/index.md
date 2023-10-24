@@ -58,6 +58,7 @@ To achieve this, Back2Sea quantifies form and function at the organismic scale u
 Analyses conducted in a broad phylogenetic and quantitative evolutionary context allow to address fundamental questions about the patterns and processes driving land-to-water transitions. 
 <br></br>
 {{< figure src="funding_MSCA.png" title="" >}}
+_This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101023931._
 
 
 ---
