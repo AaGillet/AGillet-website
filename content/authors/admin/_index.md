@@ -10,10 +10,10 @@ role: Marie Sklodowska-Curie Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: S. Pierce Lab - Harvard University
-  url: https://projects.iq.harvard.edu/spierce/home
 - name: Jones Lab - The University of Manchester
   url: https://www.katrinaejones.com/
+- name: S. Pierce Lab - Harvard University
+  url: https://projects.iq.harvard.edu/spierce/home
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
