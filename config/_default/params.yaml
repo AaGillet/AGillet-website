@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: agillet@fas.harvard.edu
+email: amandine.gillet@manchester.ac.uk
 phone: ''
 address:
-  street: Museum of Comparative Zoology, 26 Oxford St.
-  city: Cambridge
-  region: MA
-  postcode: '02138'
-  country: United States
-  country_code: US
+  street: University of Manchester
+  city: Manchester
+#  region: ''
+  postcode: 'UK'
+  country: 'United Kingdom'
+  country_code: UK
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
@@ -38,10 +38,10 @@ address:
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Amand_Gillet'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Amand_Gillet'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me

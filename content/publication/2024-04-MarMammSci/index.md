@@ -11,7 +11,7 @@ authors:
 - admin
 - "Katrina E. Jones"
 - "Richard Sabin"
-- "Agnese Lanzetii"
+- "Agnese Lanzetti"
 
 # Author notes (optional)
 #author_notes:
