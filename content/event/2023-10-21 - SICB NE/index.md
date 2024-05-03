@@ -12,7 +12,7 @@ location: Medford, MA, USA
  # postcode: '94305'
  # country: United States
 
-summary: Oral presentation at North-east regional SICB 2023
+summary: Oral presentation at North-East regional SICB 2023
 # abstract: “”
 
 # Talk start and end times.
@@ -56,7 +56,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Back2Sea]
 
 
 ---
