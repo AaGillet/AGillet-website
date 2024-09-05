@@ -41,6 +41,10 @@ main:
     parent: Publications
     weight: 42
 
+  - name: Code
+    url: 'code'
+    weight: 50
+
   - name: Contact
     url: '#contact'
     weight: 60

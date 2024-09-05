@@ -17,37 +17,39 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: 2024-03-16T16:13:24+02:00
-doi: "https://doi.org/10.1101/2024.03.15.585285"
+date: 2024-09-01T16:13:24+02:00
+doi: "https://doi.org/10.1038/s41467-024-51963-w"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-03-16T16:13:24+02:00
+publishDate: 2024-09-01T16:13:24+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "biorxiv. 2024.03.15.585285"
+publication: "Nature Communications: 15, 7587"
 publication_short: ""
 
-abstract: "The reinvasion of the aquatic realm by cetaceans is one of the most iconic ecological transitions 
-that led to drastic modifications of the mammalian body plan, especially the axial skeleton. Relative to the 
-vertebral column of other mammals that is subdivided into numerous anatomical regions, regional boundaries 
-of the cetacean backbone appear obscured. Whether the traditional mammalian regions are present in cetaceans 
-but hard to detect due to anatomical homogenization or if regions have been entirely repatterned remains 
-unresolved. Here we combine a segmented linear regression approach with spectral clustering to quantitatively 
-investigate the number, position, and homology of vertebral regions across species from all major cetacean 
-clades. We propose the new “Nested Regions” hypothesis under which the cetacean backbone is composed of six 
-homologous modules subdivided into six to nine post-cervical regions, with the degree of regionalization 
-dependent on vertebral count and ecology. Compared to terrestrial mammals, the cetacean backbone is less 
-regionalized in the precaudal segment but more regionalized in the caudal segment, indicating repatterning 
-of the vertebral column associated with the transition from limb-powered to axial-driven locomotion."
+abstract: "Cetacean reinvasion of the aquatic realm is an iconic ecological transition 
+that led to drastic modifications of the mammalian body plan, especially in the axial skeleton. 
+Relative to the vertebral column of other mammals that is subdivided into numerous anatomical regions, 
+regional boundaries of the cetacean backbone appear obscured. Whether the traditional 
+mammalian regions are present in cetaceans but hard to detect due to anatomical homogenization 
+or if regions have been entirely repatterned remains unresolved. Here we combine a segmented 
+linear regression approach with spectral clustering to quantitatively investigate the number, 
+position, and homology of vertebral regions across 62 species from all major cetacean clades. 
+We propose the Nested Regions hypothesis under which the cetacean backbone is composed of six 
+homologous modules subdivided into six to nine post-cervical regions, with the degree of regionalization
+ dependent on vertebral count and ecology. Compared to terrestrial mammals, the cetacean backbone 
+is less regionalized in the precaudal segment but more regionalized in the caudal segment, 
+indicating repatterning of the vertebral column associated with the transition from limb-powered 
+to axial-driven locomotion."
 
 # Summary. An optional shortened abstract.
-summary: "biorxiv"
+summary: "Nature Communications"
 
 tags: [Back2Sea]
 categories: []
@@ -94,3 +96,6 @@ projects: [Back2Sea]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+*This project was supported by the European Union’s Horizon 2020 Research and Innovation Programme under the Marie Sklodowska-Curie grant agreement no. 101023931*
