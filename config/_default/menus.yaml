@@ -45,9 +45,13 @@ main:
     url: 'code'
     weight: 50
 
+  - name: Outreach
+    url: 'outreach'
+    weight: 60
+
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 
 
