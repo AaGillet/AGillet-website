@@ -6,7 +6,7 @@ title: Amandine Gillet
 superuser: true
 
 # Role/position/tagline
-role: Marie Sklodowska-Curie Research Fellow
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-My research interests lie into understanding the relationship between the morphology, kinematics, ecology and evolutionary history of large aquatic vertebrates with an emphasis on cetaceans. I thrive at applying multidisciplinary approaches to solve exciting biological questions, relying on a variety of methods such as data collection on museum specimens, dissections, 3D imaging, video analysis, numerical modelling, and phylogenetic comparative methods.
+My research interests lie in understanding the relationship between the morphology, kinematics, ecology and evolutionary history of large aquatic vertebrates with an emphasis on cetaceans. I thrive at applying multidisciplinary approaches to solve exciting biological questions, relying on a variety of methods such as data collection on museum specimens, dissections, 3D imaging, video analysis, numerical modelling, and phylogenetic comparative methods.
 
 _[Learn more about the **Back2Sea** project on axial evolution in secondary aquatic mammals!]({{< ref "project/Back2Sea/index.md" >}})_
 
