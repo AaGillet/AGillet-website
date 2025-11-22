@@ -20,24 +20,31 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: amandine.gillet@manchester.ac.uk
+email: ''
 phone: ''
-address:
-  street: University of Manchester
-  city: Manchester
-#  region: ''
-  postcode: 'UK'
-  country: 'United Kingdom'
-  country_code: UK
-#coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
+#address: 
+#  street: University of Bristol
+#  city: Bristol
+#  postcode: BS8 1RJ
+#  country: United Kingdom
+#  country_code: UK
+coordinates:
+  latitude: '51.45926559881649' 
+  longitude: '-2.600991616247669'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: Email
+    link: 'mailto:a.gillet@bristol.ac.uk'
+  - icon: map-marker-alt
+    icon_pack: fas
+    name: "School of Earth Sciences<br>University of Bristol<br>Bristol, UK"
+    link: 'https://www.bristol.ac.uk/earthsciences/'
 #  - icon: twitter
 #    icon_pack: fab
 #    name: DM Me
@@ -70,7 +77,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: 'en-us'
 
 # Site features
 
@@ -141,9 +148,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
   api_key: ''
-  zoom: 15
+  zoom: 14
 marketing:
   google_analytics: ''
   google_tag_manager: ''

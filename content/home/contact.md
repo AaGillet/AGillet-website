@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 4
 
-title: 
+title: 'Contact'
 subtitle: 
 
 content:

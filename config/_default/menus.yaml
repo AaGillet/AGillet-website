@@ -36,7 +36,7 @@ main:
     parent: Publications
     weight: 41
 
-  - name: Talks
+  - name: Conferences
     url: 'event'
     parent: Publications
     weight: 42

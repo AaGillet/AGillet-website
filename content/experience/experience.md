@@ -18,7 +18,7 @@ title: Education & research experience
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format: Jan 2006
+date_format: "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -26,6 +26,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 experience:
+ - title: 'Senior Research Associate'
+   company: "School of Earth Sciences - University of Bristol "  
+   company_url: "https://www.bristol.ac.uk/earthsciences/"
+   company_logo: uob
+   location: "Bristol, UK"
+   date_start: "2025-11-17"
+   date_end: ""
+   description: >
+        Project: *Drivers of phenotypic constraints in the mammalian backbone*<br>
+        Supervisor: Dr. Katrina E Jones (UoB)
+
+
  - title: 'MSCA Postdoctoral fellow'
    company: "Department of Earth and Environmental Sciences - University of Manchester "  
    company2: "Department of Organismic and Evolutionary Biology - Harvard University"
@@ -34,14 +46,10 @@ experience:
    company_logo: msca_uom_hu
    location: "Manchester, UK & Cambridge, MA, USA"
    date_start: "2021-10-01"
-   date_end: ""
+   date_end: "2025-04-30"
    description: >
-        Project: *Back to the sea: Axial evolution in secondarily aquatic mammals*
-
-
-        Supervisors: Dr. Katrina E Jones (University of Manchester) & Prof. Stephanie E Pierce (Harvard University)
-
-
+        Project: *Back to the sea: Axial evolution in secondarily aquatic mammals*<br>
+        Supervisors: Dr. Katrina E Jones (UoM) & Prof. Stephanie E Pierce (Harvard)
 
 
  - title: 'F.R.S.-FNRS Research fellow'
@@ -52,10 +60,8 @@ experience:
    date_start: "2015-10-01"
    date_end: "2020-05-20"
    description: >-
-        PhD thesis title: *Ecomorphology and biomechanics of cetacean backbone in an evolutionary context*
-
-
-        Supervisor: Prof. Eric Parmentier (University of Liège)
+        PhD thesis title: *Ecomorphology and biomechanics of cetacean backbone in an evolutionary context*<br>
+        Supervisor: Prof. Eric Parmentier (ULiège)
 
 
  - title: "Field research assistant"
@@ -79,15 +85,13 @@ experience:
 #   date_start: "2014-02-15"
 #   date_end: "2014-07-20"
 #   description: >-
-#        Master thesis title: *Comparative morphology of cephalic cartilage and statocysts of Mediterranean cephalopods using magnetic resonance imaging (MRI)*
-#
-#
-#        Supervisors: Prof. Michel André (Polytechnic University of Catalonia) & Dr. Thierry Jauniaux (University of Liège)
+#        Master thesis title: *Comparative morphology of cephalic cartilage and statocysts of Mediterranean cephalopods using magnetic resonance imaging (MRI)* <br>
+#        Supervisors: Prof. Michel André (UPC) & Dr. Thierry Jauniaux (University of Liège)
 
 
  - title: "Master's in Organismal Biology and Ecology"
-   company: "University of Liège"
-   company2: "Laboratory of Applied Bioacoustics - Polytechnic University of Catalonia *(Master's thesis)*"
+   company: "Faculty of Sciences - University of Liège"
+   company2: "LAB - Polytechnic University of Catalonia *(Master's thesis)*"
    company_url: 'https://www.sciences.uliege.be/cms/c_3966569/en/sciences'
    company2_url: "http://www.lab.upc.es/"
    company_logo: uliege_UPC
@@ -95,15 +99,13 @@ experience:
    date_start: "2012-09-15"
    date_end: "2014-09-15"
    description: >-
-        Master's thesis title: *Comparative morphology of cephalic cartilage and statocysts of Mediterranean cephalopods using magnetic resonance imaging (MRI)*
-
-
-        Supervisors: Prof. Michel André (Polytechnic University of Catalonia) & Dr. Thierry Jauniaux (University of Liège)
+        Master's thesis title: *Comparative morphology of cephalic cartilage and statocysts of Mediterranean cephalopods using magnetic resonance imaging (MRI)* <br>
+        Supervisors: Prof. Michel André (UPC) & Dr. Thierry Jauniaux (ULiège)
 
 
 
  - title: "Bachelor in Biology"
-   company: "University of Liège"
+   company: "Faculty of Sciences - University of Liège"
    company_url: 'https://www.sciences.uliege.be/cms/c_3966569/en/sciences'
    company_logo: uliege_logo
    location: "Liège, Belgium"
